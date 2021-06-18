@@ -1,3 +1,67 @@
+
+let i = 1000;
+
+// while(i <= 10){
+//     console.log(i);
+//     i++;
+// }
+
+do {
+    console.log(i);
+    i++;
+}
+while(i < 10);
+
+
+
+// for(let i = 0; i < 5; i ++) {
+
+//     console.log(`Notre variable i est égal à : ${i}`);
+// }
+
+
+
+// let couleur = "vert";
+
+// switch(couleur) {
+
+//     case 'vert':
+//         console.log("Prix : 19.99");
+//         break;
+//     case 'rouge':
+//         console.log("Prix : 17.99");
+//         break; 
+//     case 'blanc':
+//         console.log("Prix : 15.99");
+//         break;  
+//     default :
+//     console.log(`Désole, nous n'avons pas de ${couleru}.`);     
+// }
+
+
+
+
+
+// const nb = false;
+
+// console.log(!nb);
+
+// if(nb === 50) {
+
+//     console.log("NB = 50");
+
+// } else if(nb > 50  nb <= 100) {
+//     console.log("nb > 50  nb < 100");
+
+// } else if(nb > 500){
+//     console.log("NB > 500");
+// }
+
+
+
+
+
+
 // const operation = 10 * 10;
 // const operation = 10 % 5;
 
@@ -35,14 +99,14 @@
 // })
 // console.log(foo(4,6));
 
-function presentation() {
+// function presentation() {
 
-    console.log(txt);
-}
+//     console.log(txt);
+// }
 
-let txt = "Hello world"
+// let txt = "Hello world"
 
-presentation();
+// presentation();
 
 
 
